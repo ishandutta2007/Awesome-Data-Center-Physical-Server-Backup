@@ -69,7 +69,7 @@ Enterprise platforms delivering hardware-agnostic image backup, automated disast
 
 Active open-source backup platforms, self-hosted disaster recovery utilities, bare-metal recovery toolkits, and deduplication archivers. Sorted by GitHub community stargazers count.
 
-| 💻 Repository | ⭐ Star Badge | 📝 Architecture & Description |
+| 💻 Repository | ⭐ Stars_Badge | 📝 Architecture & Description |
 |:---|:---:|:---|
 | **[Restic](https://github.com/restic/restic)** | [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Fast, secure, deduplicated backup program written in Go. Supports local, SFTP, REST, and multi-cloud object storage (S3, B2, Azure, GCS) with client-side cryptography. |
 | **[Duplicati](https://github.com/duplicati/duplicati)** | [![Stars](https://img.shields.io/github/stars/duplicati/duplicati?style=social&color=white)](https://github.com/duplicati/duplicati/stargazers) | Block-based encrypted backup client with built-in web management interface, AES-256 encryption, and scheduling for physical servers and workstations. |
@@ -100,7 +100,7 @@ We welcome community contributions, architectural additions, and up-to-date pric
 3. 📝 **Add/Update entries in `README.md`** adhering to the existing tabular format:
    - Ensure tool name, valid official link, and concise 1–2 sentence architectural description.
    - For SaaS additions, provide validated starting tier pricing and specific trial/free-forever terms.
-   - For Open-Source additions, supply the repository path and ensure the star badge points to its stargazers page.
+   - For Open-Source additions, supply the repository path and ensure the Stars_Badge points to its stargazers page.
 4. 🚀 **Submit a Pull Request** with a brief summary of the changes and sources for pricing or benchmark claims.
 
 ---
